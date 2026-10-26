@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=200&section=header&text=Sahil%20Kumar&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Patna%2C%20India&descSize=18&descAlignY=62" alt="Sahil Kumar — Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F7F1E1&height=200&section=header&text=Sahil%20Kumar&fontSize=52&fontColor=141414&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Patna%2C%20India&descSize=18&descAlignY=62" alt="Sahil Kumar — Full Stack Developer" />
 
 <p align="center">
   <a href="https://github.com/Sahilssr1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7B61FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+ASP.NET+%7C+Flutter;FastAPI+%7C+Firebase+%7C+PostgreSQL;Building+Atheleos+%26+open-source+AI+voice" alt="Typing animation" /></a>
@@ -28,22 +28,22 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,dart,html,css&perline=8" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,dart,html,css&perline=8&theme=light" alt="Languages" />
 </p>
 
 **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter&perline=8" alt="Frontend and Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter&perline=8&theme=light" alt="Frontend and Mobile" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi&perline=8" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi&perline=8&theme=light" alt="Backend" />
 </p>
 
 **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,docker,git,github,vscode&perline=8" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,docker,git,github,vscode&perline=8&theme=light" alt="Databases and Tools" />
 </p>
 
 ---
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahilssr1&show_icons=true&title_color=7B61FF&icon_color=FF5CAB&text_color=E6E6E6&bg_color=141414&border_color=7B61FF" alt="Sahil's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilssr1&background=141414&border=7B61FF&ring=7B61FF&fire=FF5CAB&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FF5CAB&dates=9CA3AF" alt="Sahil's GitHub streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahilssr1&show_icons=true&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Sahil's GitHub stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilssr1&background=F7F1E1&border=141414&ring=7B61FF&fire=FF5CAB&currStreakNum=141414&sideNums=141414&currStreakLabel=FF5CAB&dates=6B6B6B" alt="Sahil's GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilssr1&layout=compact&langs_count=8&title_color=7B61FF&text_color=E6E6E6&bg_color=141414&border_color=7B61FF" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilssr1&layout=compact&langs_count=8&title_color=7B61FF&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Top languages" />
 </p>
 
 ---
@@ -65,12 +65,12 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/Sahilssr1/Atheleos_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Atheleos_App&title_color=7B61FF&icon_color=FF5CAB&text_color=E6E6E6&bg_color=141414&border_color=7B61FF" alt="Atheleos App" /></a></td>
-    <td><a href="https://github.com/Sahilssr1/New_Voice_model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=New_Voice_model&title_color=7B61FF&icon_color=FF5CAB&text_color=E6E6E6&bg_color=141414&border_color=7B61FF" alt="AI Voice Calling Platform" /></a></td>
+    <td><a href="https://github.com/Sahilssr1/Atheleos_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Atheleos_App&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Atheleos App" /></a></td>
+    <td><a href="https://github.com/Sahilssr1/New_Voice_model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=New_Voice_model&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="AI Voice Calling Platform" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Sahilssr1/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Portfolio&title_color=7B61FF&icon_color=FF5CAB&text_color=E6E6E6&bg_color=141414&border_color=7B61FF" alt="Portfolio" /></a></td>
-    <td><a href="https://github.com/Sahilssr1/Atheleos_Admin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Atheleos_Admin&title_color=7B61FF&icon_color=FF5CAB&text_color=E6E6E6&bg_color=141414&border_color=7B61FF" alt="Atheleos Admin" /></a></td>
+    <td><a href="https://github.com/Sahilssr1/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Portfolio&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Portfolio" /></a></td>
+    <td><a href="https://github.com/Sahilssr1/Atheleos_Admin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Atheleos_Admin&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Atheleos Admin" /></a></td>
   </tr>
 </table>
 
@@ -85,7 +85,7 @@
   <img src="https://raw.githubusercontent.com/Sahilssr1/Sahilssr1/output/github-snake.svg" alt="Contribution snake" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=141414&height=120&section=footer" alt="" />
 
 <!---
 Sahilssr1/Sahilssr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -51,28 +51,24 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahilssr1&show_icons=true&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Sahil's GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilssr1&background=F7F1E1&border=141414&ring=7B61FF&fire=FF5CAB&currStreakNum=141414&sideNums=141414&currStreakLabel=FF5CAB&dates=6B6B6B" alt="Sahil's GitHub streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Sahilssr1&background=F7F1E1&border=141414&ring=7B61FF&fire=FF5CAB&currStreakNum=141414&sideNums=141414&currStreakLabel=FF5CAB&dates=6B6B6B" alt="Sahil's GitHub streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahilssr1&theme=default" alt="Top languages by repo" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilssr1&layout=compact&langs_count=8&title_color=7B61FF&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahilssr1&theme=default" alt="Sahil's GitHub profile details" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/Sahilssr1/Atheleos_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Atheleos_App&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Atheleos App" /></a></td>
-    <td><a href="https://github.com/Sahilssr1/New_Voice_model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=New_Voice_model&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="AI Voice Calling Platform" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/Sahilssr1/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Portfolio&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Portfolio" /></a></td>
-    <td><a href="https://github.com/Sahilssr1/Atheleos_Admin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilssr1&repo=Atheleos_Admin&title_color=7B61FF&icon_color=FF5CAB&text_color=141414&bg_color=F7F1E1&border_color=141414" alt="Atheleos Admin" /></a></td>
-  </tr>
-</table>
+| Project | Description | Tech |
+|---|---|---|
+| [Atheleos App](https://github.com/Sahilssr1/Atheleos_App) | Sports social platform for athletes, coaches, scouts and brands — live at [atheleos.in](https://atheleos.in) | Flutter, Firebase |
+| [AI Voice Calling Platform](https://github.com/Sahilssr1/New_Voice_model) | Open-source real-time AI voice calling platform — fully self-hosted, English and Hindi | Python, FastAPI, WebSockets |
+| [Portfolio](https://github.com/Sahilssr1/Portfolio) | Personal portfolio — Next.js, Tailwind CSS, Framer Motion — live at [sahilssr-portfolio.vercel.app](https://sahilssr-portfolio.vercel.app/) | TypeScript, Next.js |
+| [Atheleos Admin](https://github.com/Sahilssr1/Atheleos_Admin) | Admin panel for Atheleos — ~80 API endpoints, moderation, verification queue and analytics | React, Express, Firebase |
 
 - 🏢 **HR Management System** — production HR platform with geo-fenced attendance and attendance-driven payroll · [Google Play — 5,000+ downloads](https://play.google.com/store/apps/details?id=com.sanjivani.SanjivaniGroup)
 - 🏆 **Atheleos** — sports social network for athletes, coaches, scouts and brands · [Live website](https://atheleos.in)

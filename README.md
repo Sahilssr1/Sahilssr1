@@ -51,6 +51,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  📦 <b>70 repositories</b> in total (63 public + 7 private — private repos can't appear in public stats cards)
+</p>
+
+<p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Sahilssr1&background=F7F1E1&border=141414&ring=7B61FF&fire=FF5CAB&currStreakNum=141414&sideNums=141414&currStreakLabel=FF5CAB&dates=6B6B6B&v=2" alt="Sahil's GitHub streak" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahilssr1&theme=default&v=2" alt="Top languages by repo" />
 </p>

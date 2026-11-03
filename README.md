@@ -28,22 +28,22 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,dart,html,css&perline=8&theme=light" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,java,python,dart,html,css&perline=8&theme=light&v=2" alt="Languages" />
 </p>
 
 **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter&perline=8&theme=light" alt="Frontend and Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,flutter&perline=8&theme=light&v=2" alt="Frontend and Mobile" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi&perline=8&theme=light" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi&perline=8&theme=light&v=2" alt="Backend" />
 </p>
 
 **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,docker,git,github,vscode&perline=8&theme=light" alt="Databases and Tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,docker,git,github,vscode&perline=8&theme=light&v=2" alt="Databases and Tools" />
 </p>
 
 ---

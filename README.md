@@ -71,15 +71,20 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [Atheleos App](https://github.com/Sahilssr1/Atheleos_App) | Sports social platform for athletes, coaches, scouts and brands — live at [atheleos.in](https://atheleos.in) | Flutter, Firebase |
-| [AI Voice Calling Platform](https://github.com/Sahilssr1/New_Voice_model) | Open-source real-time AI voice calling platform — fully self-hosted, English and Hindi | Python, FastAPI, WebSockets |
-| [Portfolio](https://github.com/Sahilssr1/Portfolio) | Personal portfolio — Next.js, Tailwind CSS, Framer Motion — live at [sahilssr-portfolio.vercel.app](https://sahilssr-portfolio.vercel.app/) | TypeScript, Next.js |
-| [Atheleos Admin](https://github.com/Sahilssr1/Atheleos_Admin) | Admin panel for Atheleos — ~80 API endpoints, moderation, verification queue and analytics | React, Express, Firebase |
-
-- 🏢 **HR Management System** — production HR platform with geo-fenced attendance and attendance-driven payroll · [Google Play — 5,000+ downloads](https://play.google.com/store/apps/details?id=com.sanjivani.SanjivaniGroup)
-- 🏆 **Atheleos** — sports social network for athletes, coaches, scouts and brands · [Live website](https://atheleos.in)
+<table>
+  <tr>
+    <td><a href="https://atheleos.in"><img src="assets/projects/atheleos.png" alt="Atheleos App — sports social platform, live at atheleos.in" /></a></td>
+    <td><a href="https://github.com/Sahilssr1/New_Voice_model"><img src="assets/projects/ai-voice.png" alt="AI Voice Calling Platform — open-source real-time AI voice calling" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://sahilssr-portfolio.vercel.app/"><img src="assets/projects/portfolio.png" alt="Portfolio — personal portfolio, live at sahilssr-portfolio.vercel.app" /></a></td>
+    <td><a href="https://github.com/Sahilssr1/Atheleos_Admin"><img src="assets/projects/atheleos-admin.png" alt="Atheleos Admin — admin panel for Atheleos" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://play.google.com/store/apps/details?id=com.sanjivani.SanjivaniGroup"><img src="assets/projects/hrms.png" alt="HR Management System — production HR platform, 5,000+ downloads on Google Play" /></a></td>
+    <td><a href="https://github.com/Sahilssr1?tab=repositories"><img src="assets/projects/more.png" alt="More repositories — 70 repositories on GitHub" /></a></td>
+  </tr>
+</table>
 
 ---
 

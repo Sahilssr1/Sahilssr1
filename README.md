@@ -17,7 +17,7 @@
 
 - 🔭 **Full Stack Developer** at Sanjivani Media & Technology, Patna — full-time since March 2025 (intern Aug 2024 – Mar 2025)
 - 🎓 **MCA** at Lovely Professional University (2025–2027)
-- 🚀 Building **Atheleos** — a sports social platform live at [atheleos.in](https://atheleos.in) — plus a production HR system on Google Play (**5,000+ downloads**) and an open-source AI voice calling platform
+- 🚀 Building **Atheleos** — a sports social platform live at [atheleos.in](https://atheleos.in) — plus a production HR system on Google Play (**5,000+ downloads**), with its web admin portal at [sanjivanipay.com](https://sanjivanipay.com/) — and an open-source AI voice calling platform
 - 🌱 Currently exploring **RAG knowledge bases** and real-time voice agents on fully self-hosted, open-source models
 - 💼 Open to full-time software development opportunities
 - 📫 Reach me at **Sahilsinghrajput394@gmail.com**
@@ -81,10 +81,14 @@
     <td><a href="https://github.com/Sahilssr1/Atheleos_Admin"><img src="assets/projects/atheleos-admin.png" alt="Atheleos Admin — admin panel for Atheleos" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://play.google.com/store/apps/details?id=com.sanjivani.SanjivaniGroup"><img src="assets/projects/hrms.png" alt="HR Management System — production HR platform, 5,000+ downloads on Google Play" /></a></td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.sanjivani.SanjivaniGroup"><img src="assets/projects/hrms.png" alt="HR Management System — production HR platform, 5,000+ downloads on Google Play, with web admin portal at sanjivanipay.com" /></a></td>
     <td><a href="https://github.com/Sahilssr1?tab=repositories"><img src="assets/projects/more.png" alt="More repositories — 70 repositories on GitHub" /></a></td>
   </tr>
 </table>
+
+<p align="center">
+  <b>HR Management System:</b> <a href="https://play.google.com/store/apps/details?id=com.sanjivani.SanjivaniGroup">Google Play app</a> • <a href="https://sanjivanipay.com/">Web admin portal — sanjivanipay.com</a>
+</p>
 
 ---
 
